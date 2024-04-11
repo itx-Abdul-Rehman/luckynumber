@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Lucky Number</string>
+    <string name="welcome_to_lucky_number">Welcome to Lucky Number</string>
+    <string name="your_lucky_number_is">Your Lucky Number is</string>
+    <string name="share">Share</string>
+
+    <string-array name="my_array">
+
+        <item>Java</item>
+        <item>JavaScript</item>
+        <item>Python</item>
+        <item>C++</item>
+        <item>C</item>
+        <item>C#</item>
+        <item>Kotlin</item>
+        <item>Swift</item>
+        <item>Dart</item>
+
+    </string-array>
+</resources>
